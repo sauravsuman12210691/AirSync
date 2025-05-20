@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [martinezjsp](https://github.com/martinezjsp)
-- **Email**: martinezjsp@example.com
+- **GitHub**: [martinezjsp](https://github.com/sauravsuman12210691/AirSync.git)
+- **Email**: sauravsrivastav9876@gmail.com
 
-Thank you for checking out AirSync! We hope you enjoy using it as much as we enjoyed building it. Don’t forget to visit the [Releases](https://github.com/martinezjsp/AirSync/releases) section for the latest updates and downloads.
+Thank you for checking out AirSync! We hope you enjoy using it as much as we enjoyed building it. Don’t forget to visit the [Releases](https://github.com/sauravsuman12210691/AirSync.git/releases) section for the latest updates and downloads.
